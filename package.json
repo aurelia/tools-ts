@@ -1,0 +1,20 @@
+{
+    "name": "aurelia-tools-ts",
+    "version": "0.1.0",
+    "description": "The shared set of tools that are used for Aurelia's TypeScript builds.",
+    "keywords": [
+      "aurelia",
+      "tools",
+      "typescript"
+    ],
+    "homepage": "http://aurelia.io",
+    "bugs": {
+      "url": "https://github.com/aurelia/tools-ts/issues"
+    },
+    "license": "MIT",
+    "author": "aurelia",
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/aurelia/tools-ts"
+    }
+  }
