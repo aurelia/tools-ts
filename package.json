@@ -16,5 +16,6 @@
     "repository": {
       "type": "git",
       "url": "http://github.com/aurelia/tools-ts"
-    }
+    },
+    "files": []
   }
