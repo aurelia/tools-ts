@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "dist/test"
+  },
+  "exclude": [
+    "the 'exclude' is here only for reference,",
+    "since the patterns will be resolved relative to the file they are in."
+  ],
+  "exclude": [
+    ".vscode",
+    "dist",
+    "doc",
+    "node_modules"
+  ]
+}
